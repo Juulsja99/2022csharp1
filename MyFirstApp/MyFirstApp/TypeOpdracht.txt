@@ -1,0 +1,9 @@
+bool
+int 
+float
+string
+Room
+PlayerSprite
+Bitmap
+Grpahics
+readonly
