@@ -8,5 +8,9 @@ namespace Classes
 {
     internal class Rectangle
     {
+        internal int x;
+        internal int y;
+        internal int width;
+        internal int height;
     }
 }
